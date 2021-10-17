@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olawoyin Oluwafemi
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Advanced Database and Big Data Tools and Technique
+- 👀 I’m interested in Data Science and Artificial Intellegence
+- 🌱 I’m currently learning Data Mining
 - 💞️ I’m looking to collaborate on Microsoft Teams
 - 📫 How to reach me email: femi.eddy@gmail.com
 
