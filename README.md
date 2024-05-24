@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif  vvvvxxddd" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Specialist Data Engineer at Somerset NHS Foundation Trust, specializing in doing magic with data. My technical range is broad, covering everything from cloud platforms and containerization to CI/CD.</p>
+    <p>I'm a Specialist Data Engineer at SFT, specializing in doing magic with data. My technical range is broad, covering everything from cloud platforms and containerization to CI/CD.</p>
 </div>
 
 <div align="center">
