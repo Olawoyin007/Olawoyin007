@@ -16,7 +16,7 @@
       <a href="https://www.linkedin.com/in/oluwafemi-olawoyin-mbcs-73a2a2163">
         <img src="https://img.shields.io/badge/OluwafemiOlawoyin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
-      <a href="https://linktr.ee/xxx">
+      <a href="https://linktr.ee/FemiEngr">
         <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
       </a>
     <a href="https://github.com/Olawoyin007/Olawoyin007" target="_blank">
