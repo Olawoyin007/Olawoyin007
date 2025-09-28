@@ -4,4 +4,4 @@
 
 ## 👋 About Me
 
-I care about building technology that is fair, compassionate, and responsible.
+I design scalable data and AI systems that make complex information clear and usable. I focus on building technology that’s fair, responsible, and aligned with human wellbeing. My work centers privacy, clarity, and long-term integrity.
