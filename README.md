@@ -4,4 +4,4 @@
 
 ## 👋 About Me
 
-I design scalable data and AI systems that make complex information clear and usable. I focus on building technology that’s fair, responsible, and aligned with human wellbeing. My work centers privacy, clarity, and long-term integrity.
+I design scalable data and AI systems that make complex information clear and usable, with a focus on fairness, transparency, and human‑centered design. Active contribution to open‑source software (OSS).
