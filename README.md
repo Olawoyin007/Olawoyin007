@@ -19,3 +19,5 @@ I design scalable data and AI systems that make complex information clear and us
 - Building scalable data/AI platforms in regulated environments.
 - Human-centered AI delivery (reliable, transparent, usable).
 - Resource-efficient systems that run well on modest hardware.
+
+_A builder of technologies that refuse to replace humans_
