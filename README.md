@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-I design scalable data and AI systems that make complex information clear and usable, with a focus on fairness, transparency, and human‑centered design. Active contribution to open‑source software (OSS).
+I design scalable data and AI systems that make complex information clear and usable, with a focus on fairness, transparency, and human‑centered design.
 
 ### 🔭 Current focus
 - Building scalable data/AI platforms in regulated environments.
