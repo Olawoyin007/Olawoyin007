@@ -16,6 +16,6 @@
 I design scalable data and AI systems that make complex information clear and usable, with a focus on fairness, transparency, and human‑centered design.
 
 ### 🔭 Current focus
-- Building scalable data/AI platforms in regulated environments.
+- Building scalable data/AI platforms.
 - Human-centered AI delivery (reliable, transparent, usable).
 - Resource-efficient systems that run well on modest hardware.
