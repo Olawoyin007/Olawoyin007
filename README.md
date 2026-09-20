@@ -6,9 +6,6 @@
     />
   </h1>
 
-  <p align="center">
-    <a href="https://github.com/FemiEngr"><b>Professional GitHub</b>: @FemiEngr</a>
-  </p>
 </div>
 
 ## 👋 About Me
