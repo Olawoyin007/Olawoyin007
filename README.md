@@ -10,10 +10,10 @@
 
 ## 👋 About Me
 
-I run AI on hardware I own and measure what it really costs: memory, speed, and answers that shift when one setting changes. By day I build data platforms in regulated settings like healthcare and education.
+I run AI on local hardware I own and measure what it really costs: memory, speed, and answers that shift when one setting changes. 
 
 ### 🔭 Current focus
 - Measuring local models on two very different machines: a 128 GB unified-memory box and a desktop with a 12 GB consumer card.
 - A nightly eval pipeline that tests every model change before I trust it.
-- Open-source contributions to llmfit, a tool that matches models to a machine's memory.
+- Open-source contributions.
 - Writing it up at simplylocalai.com.
