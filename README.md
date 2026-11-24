@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I run AI on local hardware I own and measure what it really costs: memory, speed, and answers that shift when one setting changes. 
+I run AI on local hardware and measure what it really costs: memory, speed, and answers that shift when one setting changes. 
 
 ### 🔭 Current focus
 - Measuring local models on two very different machines: a 128 GB unified-memory box and a desktop with a 12 GB consumer card.
